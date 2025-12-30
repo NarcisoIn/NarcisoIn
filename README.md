@@ -33,10 +33,11 @@ Me gusta aprender nuevas tecnologías y aplicarlas en proyectos académicos y pe
 ---
 
 ## 📌 Proyectos Destacados
-- 📱 **Calculadora Android en Kotlin**  
+- ⚙️ **Proyecto de Automatización de Sockt**
 - 🖥️ **Calculadora desarrollada en Python con Tkinter**
 - 🖥️ **Juego Pong desarrollado en Python con PyGame**
-- 🔢 **Solución numérica de Ecuaciones Diferenciales en Python**  
+- 🔢 **Calculo aproximado de precio de divisa utilizando el metodo de Montecarlo**
+- 📱 **Calculadora Android en Kotlin**  
 
 ---
 
