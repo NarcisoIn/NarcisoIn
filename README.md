@@ -19,13 +19,14 @@ Me gusta aprender nuevas tecnologías y aplicarlas en proyectos académicos y pe
 
 ## 🛠️ Tecnologías que uso y aprendo
 - **Lenguajes:** Python
-- **Bases de datos:** MySQL  
+- **Bases de datos:** MySQL y PostgreSQL
 - **Frameworks / Librerías Python:** Tkinter, Matplotlib, NumPy, PyGame
 - **Herramientas:** Git, GitHub, VS Code, Android Studio  
 
 ---
 
 ## 💼 Experiencia / Prácticas
+- Desarrollo de automatizaciones con Python
 - Mantenimiento y calibración de guitarras electroacústicas.  
 - Desarrollo de aplicaciones de escritorio 
 - Proyectos universitarios en Android Studio y Python.  
