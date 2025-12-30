@@ -42,9 +42,9 @@ Me gusta aprender nuevas tecnologías y aplicarlas en proyectos académicos y pe
 
 ## 📊 Github stact
 
-[![GitHub Streak](https://https://github-readme-stats-three-red-95.vercel.app/api?user=NarcisoIn&theme=dark&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-stats-three-red-95.vercel.app/api?user=NarcisoIn&theme=dark&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![GitHub stats](https://https://github-readme-stats-three-red-95.vercel.app//api?username=NarcisoIn&theme=dracula&text_color=ff79c6&icon_color=50fa7b)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats-three-red-95.vercel.app/api?username=NarcisoIn&theme=dracula&text_color=ff79c6&icon_color=50fa7b)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
