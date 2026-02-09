@@ -34,7 +34,7 @@ Me gusta aprender nuevas tecnologías y aplicarlas en proyectos académicos y pe
 ---
 
 ## 📌 Proyectos Destacados
-- ⚙️ **Proyecto de Automatización de Sockt**
+- ⚙️ **Proyecto de Automatización de Stock**
 - 🖥️ **Calculadora desarrollada en Python con Tkinter**
 - 🖥️ **Juego Pong desarrollado en Python con PyGame**
 - 🔢 **Calculo aproximado de precio de divisa utilizando el metodo de Montecarlo**
