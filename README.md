@@ -1,10 +1,4 @@
-# Hola, soy Iván Narciso
-🎓 Estudiante del Tecnológico Nacional de México Campus Pinotepa  
-💻 Apasionado por el desarrollo de software y la tecnología  
-🚀 Buscando crecer como desarrollador y aportar en proyectos reales  
-<div align="center">
-
-# Iván Narciso Guzmán Hernández
+# Iván Narciso
 
 **Estudiante de Ingeniería en Sistemas Computacionales**  
 Tecnológico Nacional de México · Campus Pinotepa
@@ -15,7 +9,7 @@ Tecnológico Nacional de México · Campus Pinotepa
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narcisoguzmhdez@gmail.com)
 
 </div>
----
+
 
 ## 📖 Sobre mí
 
