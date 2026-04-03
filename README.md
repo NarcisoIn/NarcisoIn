@@ -1,10 +1,20 @@
-# Hola, soy Iván Narciso Guzmán Hernández 👋
+# Hola, soy Iván Narciso
+🎓 Estudiante del Tecnológico Nacional de México Campus Pinotepa  
+💻 Apasionado por el desarrollo de software y la tecnología  
+🚀 Buscando crecer como desarrollador y aportar en proyectos reales  
+<div align="center">
+
+# Iván Narciso Guzmán Hernández
 
 **Estudiante de Ingeniería en Sistemas Computacionales**  
 Tecnológico Nacional de México · Campus Pinotepa
 
-🌐 [narcisoguzman.com](https://narcisoguzman.com) · 💼 [LinkedIn](https://www.linkedin.com/in/iv%C3%A1n-narciso-guzm%C3%A1n-hern%C3%A1ndez-740b21293/) · 🐙 [GitHub](https://github.com/NarcisoIn) · 📧 [narcisoguzmhdez@gmail.com](mailto:narcisoguzmhdez@gmail.com)
+[![Portfolio](https://img.shields.io/badge/narcisoguzman.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://narcisoguzman.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iv%C3%A1n-narciso-guzm%C3%A1n-hern%C3%A1ndez-740b21293/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NarcisoIn)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narcisoguzmhdez@gmail.com)
 
+</div>
 ---
 
 ## 📖 Sobre mí
