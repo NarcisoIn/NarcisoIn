@@ -1,16 +1,12 @@
-# Hola, soy Iván Narciso
-🎓 Estudiante del Tecnológico Nacional de México Campus Pinotepa  
-💻 Apasionado por el desarrollo de software y la tecnología  
-🚀 Buscando crecer como desarrollador y aportar en proyectos reales  
 <div align="center">
 
 # Iván Narciso Guzmán Hernández
 
-**Estudiante de Ingeniería en Sistemas Computacionales**  
+**Estudiante de Ingeniería en Sistemas Computacionales**
 Tecnológico Nacional de México · Campus Pinotepa
 
 [![Portfolio](https://img.shields.io/badge/narcisoguzman.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://narcisoguzman.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iv%C3%A1n-narciso-guzm%C3%A1n-hern%C3%A1ndez-740b21293/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iván-narciso-guzmán-hernández-740b21293/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NarcisoIn)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narcisoguzmhdez@gmail.com)
 
@@ -18,9 +14,6 @@ Tecnológico Nacional de México · Campus Pinotepa
 
 ---
 
-## 📖 Sobre mí
-Soy estudiante universitario de 5to semestre con interés en el desarrollo de aplicaciones, bases de datos y soluciones de software.  
-Me gusta aprender nuevas tecnologías y aplicarlas en proyectos académicos y personales.  
 ## Sobre mí
 
 Soy estudiante de 5° semestre de Ingeniería en Sistemas Computacionales en el **TecNM Campus Pinotepa**, con enfoque en el desarrollo de aplicaciones móviles, automatización de procesos y diseño de soluciones de software orientadas a problemas reales.
@@ -29,21 +22,13 @@ Me interesa la intersección entre la ingeniería de software y el impacto prác
 
 ---
 
-## 🎓 Estudios
-- Ingeniería en Sistemas Computacionales, Tecnológico Nacional de México Campus Pinotepa  
-- Actualmente tomando: *Python aplicado a 5 proyectos* (en progreso, ~50% completado)
 ## Formación académica
 
-- **Ingeniería en Sistemas Computacionales** — TecNM Campus Pinotepa *(en curso, 5° semestre)*
-- **Python aplicado a 5 proyectos** — Curso de especialización *(en progreso, ~50% completado)*
+- 🎓 **Ingeniería en Sistemas Computacionales** — TecNM Campus Pinotepa *(en curso, 5° semestre)*
+- 📚 **Python aplicado a 5 proyectos** — Curso de especialización *(en progreso, ~50% completado)*
 
 ---
 
-## 🛠️ Tecnologías que uso y aprendo
-- **Lenguajes:** Python
-- **Bases de datos:** MySQL y PostgreSQL
-- **Frameworks / Librerías Python:** Tkinter, Matplotlib, NumPy, PyGame
-- **Herramientas:** Git, GitHub, VS Code, Android Studio  
 ## Stack tecnológico
 
 **Lenguajes**
@@ -76,26 +61,15 @@ Me interesa la intersección entre la ingeniería de software y el impacto prác
 
 ---
 
-## 💼 Experiencia / Prácticas
-- Desarrollo de automatizaciones con Python
-- Mantenimiento y calibración de guitarras electroacústicas.  
-- Desarrollo de aplicaciones de escritorio 
-- Proyectos universitarios en Android Studio y Python.  
 ## Experiencia y actividades
 
-- Desarrollo de aplicaciones móviles multiplataforma con Flutter y Firebase
-- Implementación de automatizaciones y herramientas de escritorio con Python
-- Participación en proyectos universitarios de análisis, diseño e implementación de software
-- Mantenimiento y calibración de guitarras electroacústicas
+- 📱 Desarrollo de aplicaciones móviles multiplataforma con Flutter y Firebase
+- 🤖 Implementación de automatizaciones y herramientas de escritorio con Python
+- 🎓 Participación en proyectos universitarios de análisis, diseño e implementación de software
+- 🎸 Mantenimiento y calibración de guitarras electroacústicas
 
 ---
 
-## 📌 Proyectos Destacados
-- ⚙️ **Proyecto de Automatización de Stock**
-- 🖥️ **Calculadora desarrollada en Python con Tkinter**
-- 🖥️ **Juego Pong desarrollado en Python con PyGame**
-- 🔢 **Calculo aproximado de precio de divisa utilizando el metodo de Montecarlo**
-- 📱 **Calculadora Android en Kotlin**  
 ## Proyectos destacados
 
 | Proyecto | Descripción | Tecnologías |
@@ -108,24 +82,17 @@ Me interesa la intersección entre la ingeniería de software y el impacto prác
 
 ---
 
-## 📊 Github stact
 ## GitHub Stats
 
-[![GitHub stats](https://github-readme-statss-xi.vercel.app/api?username=NarcisoIn&theme=dracula&text_color=ff79c6&icon_color=50fa7b)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=NarcisoIn&show_icons=true&theme=dracula&text_color=ff79c6&icon_color=50fa7b)](https://github.com/NarcisoIn)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NarcisoIn&layout=compact&theme=dracula&text_color=ff79c6)](https://github.com/NarcisoIn)
 
 </div>
 
 ---
 
-## 🌐 Contacto
-- 📧 **Correo** narcisoguzmhdez@gmail.com
-- 🔗 **Linkedin** https://www.linkedin.com/in/iv%C3%A1n-narciso-guzm%C3%A1n-hern%C3%A1ndez-740b21293/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Ba4sVDJD2Sx6MmB5qFSWOEQ%3D%3D  
-- 💻 **Github** https://github.com/NarcisoIn  
 <div align="center">
 
 *"El mejor momento para empezar fue ayer, el segundo mejor momento es ahora."*
