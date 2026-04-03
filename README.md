@@ -1,35 +1,28 @@
-<div align="center">
-
-# Iván Narciso Guzmán Hernández
+# Hola, soy Iván Narciso Guzmán Hernández 👋
 
 **Estudiante de Ingeniería en Sistemas Computacionales**  
 Tecnológico Nacional de México · Campus Pinotepa
 
-[![Portfolio](https://img.shields.io/badge/narcisoguzman.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://narcisoguzman.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iv%C3%A1n-narciso-guzm%C3%A1n-hern%C3%A1ndez-740b21293/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NarcisoIn)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narcisoguzmhdez@gmail.com)
-
-</div>
+🌐 [narcisoguzman.com](https://narcisoguzman.com) · 💼 [LinkedIn](https://www.linkedin.com/in/iv%C3%A1n-narciso-guzm%C3%A1n-hern%C3%A1ndez-740b21293/) · 🐙 [GitHub](https://github.com/NarcisoIn) · 📧 [narcisoguzmhdez@gmail.com](mailto:narcisoguzmhdez@gmail.com)
 
 ---
 
-## Sobre mí
+## 📖 Sobre mí
 
 Soy estudiante de 5° semestre de Ingeniería en Sistemas Computacionales en el **TecNM Campus Pinotepa**, con enfoque en el desarrollo de aplicaciones móviles, automatización de procesos y diseño de soluciones de software orientadas a problemas reales.
 
-Me interesa la intersección entre la ingeniería de software y el impacto práctico: construir sistemas que funcionen correctamente, sean seguros y aporten valor a quienes los usan. Actualmente combino el aprendizaje académico formal con el desarrollo de proyectos propios y colaborativos, apoyándome en herramientas de inteligencia artificial para acelerar el proceso de investigación y resolución de problemas.
+Me interesa construir sistemas que funcionen correctamente, sean seguros y aporten valor a quienes los usan. Combino el aprendizaje académico con el desarrollo de proyectos propios y colaborativos, apoyándome en herramientas de inteligencia artificial para acelerar la investigación y resolución de problemas.
 
 ---
 
-## Formación académica
+## 🎓 Formación académica
 
-- **Ingeniería en Sistemas Computacionales** — TecNM Campus Pinotepa *(en curso, 5° semestre)*
-- **Python aplicado a 5 proyectos** — Curso de especialización *(en progreso, ~50% completado)*
+- 🏫 **Ingeniería en Sistemas Computacionales** — TecNM Campus Pinotepa *(en curso, 5° semestre)*
+- 📚 **Python aplicado a 5 proyectos** — Curso de especialización *(~50% completado)*
 
 ---
 
-## Stack tecnológico
+## 🛠️ Stack tecnológico
 
 **Lenguajes**
 
@@ -61,7 +54,7 @@ Me interesa la intersección entre la ingeniería de software y el impacto prác
 
 ---
 
-## Experiencia y actividades
+## 💼 Experiencia y actividades
 
 - Desarrollo de aplicaciones móviles multiplataforma con Flutter y Firebase
 - Implementación de automatizaciones y herramientas de escritorio con Python
@@ -70,32 +63,31 @@ Me interesa la intersección entre la ingeniería de software y el impacto prác
 
 ---
 
-## Proyectos destacados
+## 📌 Proyectos destacados
 
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| 📱 **[AuxiDrive](https://github.com/NarcisoIn/AuxiDrive)** | Plataforma móvil que conecta propietarios de vehículos con mecánicos y técnicos automotrices. Incluye gestión de solicitudes de servicio, chat cifrado AES-256, mapa interactivo y comunidad técnica. Arquitectura serverless con Cloud Functions en Node.js. | Flutter · Firebase · Dart |
-| ⚙️ **Automatización de Stock** | Sistema de control de inventario con interfaz gráfica e integración a base de datos. | Python |
-| 🖥️ **Calculadora de escritorio** | Aplicación de escritorio con interfaz gráfica desarrollada como ejercicio de diseño UI. | Python · Tkinter |
-| 🎮 **Juego Pong** | Implementación del clásico juego Pong con manejo de eventos, colisiones y animaciones. | Python · PyGame |
-| 🔢 **Simulación Montecarlo** | Estimación del precio de divisas mediante el método de Montecarlo y análisis estadístico. | Python · NumPy |
+### 📱 [AuxiDrive](https://github.com/NarcisoIn/AuxiDrive) · `Flutter · Firebase · Dart`
+Plataforma móvil desarrollada como proyecto de Ingeniería de Software que conecta propietarios de vehículos con mecánicos y técnicos automotrices. Incluye gestión de solicitudes de servicio, chat cifrado con AES-256, mapa interactivo (OpenStreetMap), comunidad técnica con feed social y notificaciones push. Arquitectura serverless con Cloud Functions en Node.js 22.
+
+### ⚙️ Automatización de Stock · `Python`
+Sistema de control de inventario con interfaz gráfica e integración a base de datos.
+
+### 🖥️ Calculadora de escritorio · `Python · Tkinter`
+Aplicación de escritorio con interfaz gráfica desarrollada como ejercicio de diseño de UI.
+
+### 🎮 Juego Pong · `Python · PyGame`
+Implementación del clásico Pong con manejo de eventos, colisiones y animaciones.
+
+### 🔢 Simulación Montecarlo · `Python · NumPy`
+Estimación del precio de divisas mediante el método de Montecarlo y análisis estadístico.
 
 ---
 
-## GitHub Stats
-
-<div align="center">
+## 📊 GitHub Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=NarcisoIn&show_icons=true&theme=dracula&text_color=ff79c6&icon_color=50fa7b)](https://github.com/NarcisoIn)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NarcisoIn&layout=compact&theme=dracula&text_color=ff79c6)](https://github.com/NarcisoIn)
 
-</div>
-
 ---
 
-<div align="center">
-
 *"El mejor momento para empezar fue ayer, el segundo mejor momento es ahora."*
-
-</div>
