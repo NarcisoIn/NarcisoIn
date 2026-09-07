@@ -49,11 +49,12 @@ Me gusta el aprendizaje *hands-on*. Si no lo estoy montando en mi Raspberry Pi o
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| 🖥️ **[Pi-Homelab](https://github.com/NarcisoIn/pi-homelab)** | Servidor casero en Raspberry Pi 5. Contenedores con Portainer, Pi-hole, Tailscale, n8n y Nextcloud. Hardening de seguridad implementado con Lynis (Score: 78/100). | Docker · Bash · Linux |
-| 🌐 **Gestión ISP** | Sistema de administración para un Proveedor de Servicios de Internet (ISP) diseñado con triggers y procedimientos almacenados. | PostgreSQL |
-| 🔒 **Control de Acceso RFID** | Sistema físico de acceso usando lectores RC522. Comunicación de hardware a servidor centralizado. | Arduino · Pi 5 · Flask · SQLite |
-| 🌍 **Monitoreo IoT (InnovaTecNM)** | Red de sensores ambientales para lagunas costeras de Oaxaca. Transmisión de datos por radiofrecuencia y análisis local. | ESP32 · LoRa · Ollama |
-| 📱 **AuxiDrive (Refactor)** | Plataforma automotriz actualmente en proceso de reestructuración para implementar prácticas avanzadas de ciberseguridad. | Python · Seguridad |
+| 🖥️ **[Pi-Homelab](https://github.com/NarcisoIn/pi-homelab)** | Infraestructura *self-hosted* en Raspberry Pi 5 con NVMe. Contenedores con Docker, Pi-hole, Tailscale, n8n, Nextcloud y control vía Telegram. Acceso remoto seguro sin exponer puertos. | Docker · Linux · Raspberry Pi |
+| 🌐 **[Diseño de Red LAN (TecNM)](https://github.com/NarcisoIn/Diseno-Red-LAN)** | Expediente técnico de red para edificio de posgrado: 8 VLANs, VLSM (172.16.20.0/22), switch L3 con SVIs, diagramas lógico/físico y plan de 12 pruebas (SLA 99.99%). | Cisco · VLAN · VLSM |
+| 📦 **[Automatización de Inventario](https://github.com/NarcisoIn/Automatizacion-Stock)** | Script para monitorear el stock de una tienda local. Conexión a base de datos MySQL, generación de reportes en Excel y sistema de alertas mediante bot de Telegram. | Python · MySQL · Excel |
+| 📱 **[AuxiDrive](https://github.com/NarcisoIn/AuxiDrive)** | App móvil que conecta propietarios de vehículos con mecánicos. Chat cifrado AES-256, mapas interactivos (OpenStreetMap) y backend serverless con Cloud Functions. | Flutter · Firebase · Node.js |
+| 📈 **[InfoStock](https://github.com/NarcisoIn/InfoStock)** | Aplicación de escritorio orientada a la consulta de acciones y divisas en tiempo real. Integración directa con `yfinance` e interfaz gráfica limpia sin necesidad de *web scraping*. | Python · Tkinter · yfinance |
+| 🎲 **[Simulación Monte Carlo](https://github.com/NarcisoIn/Simulacion-MonteCarlo)** | Herramienta analítica para estimar el comportamiento de divisas. Genera distribuciones estadísticas y visualizaciones gráficas para el análisis de datos financieros. | Python · NumPy · Matplotlib |
 
 ---
 
