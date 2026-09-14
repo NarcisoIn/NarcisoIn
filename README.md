@@ -2,7 +2,7 @@
 
 # ¡Qué onda! Soy Narciso Guzmán 👾
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=21&pause=1000&color=4EF71A&width=435&lines=Ingenier%C3%ADa+en+Sistemas+Computacionales;Desarrollador+Web;Infraestructura+y+Ciberseguridad;Automatizaci%C3%B3n+de+Procesos;Programador)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=21&pause=1000&color=4EF71A&center=true&width=485&lines=Ingenier%C3%ADa+en+Sistemas+Computacionales;Desarrollador+Web;Infraestructura+y+Ciberseguridad;Automatizaci%C3%B3n+de+Procesos;Programador)](https://git.io/typing-svg)
 
 **TecNM Campus Pinotepa** | **NarciDev**
 
