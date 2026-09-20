@@ -84,22 +84,32 @@ No me considero experto. Todavía estoy construyendo fundamentos y experiencia. 
 | 📦 **[Automatizacion-Stock](https://github.com/NarcisoIn/Automatizacion-Stock)** | Sistema en Python para automatizar el monitoreo de inventario, con validación de stock mínimo, reportes en Excel y notificaciones[cite: 3]. | Python · Excel |
 
 ---
-
 ## Estadísticas y Actividad
 
 <div align="center">
 
-<!-- Estadísticas conectadas a tu propio Vercel con GitHub Stats Extended -->
-[![GitHub stats](https://TU-NUEVO-DOMINIO.vercel.app/api?username=NarcisoIn&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/NarcisoIn)
-[![Top Langs](https://TU-NUEVO-DOMINIO.vercel.app/api/top-langs/?username=NarcisoIn&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/NarcisoIn)
+<table>
+<tr>
+<td width="50%" align="center">
 
-<br>
+<img src="https://github-stats-extended.vercel.app/api?username=NarcisoIn&rank_icon=github&custom_title=NarcisoIn%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=transparent" alt="GitHub Stats" width="100%"/>
 
-<!-- Serpiente de contribuciones -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NarcisoIn/NarcisoIn/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NarcisoIn/NarcisoIn/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/NarcisoIn/NarcisoIn/output/github-contribution-grid-snake.svg">
-</picture>
+</td>
+<td width="50%" align="center">
 
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=NarcisoIn&layout=donut&langs_count=12&theme=transparent" alt="Top Languages" width="70%"/>
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<div align="center">
+  <p><code>$ echo "Gracias por pasar por aquí. ¡A romper y aprender!"</code></p>
+  
+  <p>
+    <a href="#top">⬆ Volver arriba</a>
+  </p>
 </div>
