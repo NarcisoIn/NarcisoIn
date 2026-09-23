@@ -1,8 +1,21 @@
 <div align="center">
 
-# ¡Qué onda! Soy NarcisoIn 👾
+<!-- Banner superior de bienvenida -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d0d0d,50:111927,100:294172&text=NarcisoIn&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Infraestructura%20%E2%80%A2%20Redes%20%E2%80%A2%20Linux%20%E2%80%A2%20Ciberseguridad&descAlignY=60&descSize=18&animation=twinkling" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=21&pause=1000&color=4EF71A&center=true&width=485&lines=Ingenier%C3%ADa+en+Sistemas+Computacionales;Desarrollador+Web;Infraestructura+y+Ciberseguridad;Automatizaci%C3%B3n+de+Procesos;Programador)](https://git.io/typing-svg)
+<br>
+
+<!-- Texto animado -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=21&pause=1000&color=4EF71A&center=true&width=485&lines=Ingenier%C3%ADa+en+Sistemas+Computacionales;Desarrollador+Web;Infraestructura+y+Ciberseguridad;Automatizaci%C3%B3n+de+Procesos;Programador" alt="Typing Animation" />
+
+<br>
+
+<!-- Contador de visitas -->
+<a href="https://github.com/NarcisoIn">
+<img src="https://komarev.com/ghpvc/?username=NarcisoIn&label=VISITAS%20AL%20PERFIL&color=294172&style=flat-square" alt="Profile views"/>
+</a>
+
+
 
 **Instituto Tecnológico de Pinotepa** | **NarcisoIn**
 
