@@ -15,12 +15,16 @@
 <img src="https://komarev.com/ghpvc/?username=NarcisoIn&label=VISITAS%20AL%20PERFIL&color=294172&style=flat-square" alt="Profile views"/>
 </a>
 
-
+<br>
 
 **Instituto Tecnológico de Pinotepa** | **NarcisoIn**
 
+<br>
+
+<!-- Redes Sociales -->
 [![Portfolio](https://img.shields.io/badge/narcisoguzman.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://narcisoguzman.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narciso-dev/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/root.narciso)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NarcisoIn)
 
 </div>
@@ -86,15 +90,16 @@ No me considero experto. Todavía estoy construyendo fundamentos y experiencia. 
 
 ---
 
-## 🚀 Proyectos Destacados
+## Proyectos Destacados
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
 | 🖥️ **[pi-homelab](https://github.com/NarcisoIn/pi-homelab)** | Infraestructura *self-hosted* en Raspberry Pi 5. Contenedores con Docker, Pi-hole, Tailscale, n8n, Nextcloud y más. Totalmente documentado. | Docker · Linux · Raspberry Pi |
-| 🌐 **[diseno-red-lan-posgrado](https://github.com/NarcisoIn/diseno-red-lan-posgrado)** | Diseño documental de red LAN para edificio de posgrado — 8 VLANs, VLSM, switch L3. Proyecto académico TecNM Pinotepa[cite: 3]. | Cisco · VLAN · VLSM |
-| 🖨️ **[InPrint_Bot](https://github.com/NarcisoIn/InPrint_Bot)** | Sistema automatizado de impresión vía Telegram. Diseñado para Homelabs y negocios locales con integración nativa a CUPS y Docker[cite: 3]. | Python · Docker · CUPS |
-| 🎨 **[Portafolio_2.0](https://github.com/NarcisoIn/Portafolio_2.0)** | Portafolio web (Astro + Tailwind) con arquitectura híbrida para integrar un microservicio de mensajería backend (FastAPI + Docker)[cite: 3]. | Astro · Tailwind · FastAPI |
-| 📦 **[Automatizacion-Stock](https://github.com/NarcisoIn/Automatizacion-Stock)** | Sistema en Python para automatizar el monitoreo de inventario, con validación de stock mínimo, reportes en Excel y notificaciones[cite: 3]. | Python · Excel |
+| 🏪 **[Super-Arrmar](https://super-arrmar.vercel.app)** | Catálogo web moderno y ultrarrápido para un negocio local de abarrotes. Interfaz responsiva con vista de categorías, promociones y enrutamiento directo a WhatsApp para consulta de productos. | Astro · Tailwind CSS · Vercel |
+| 🌐 **[diseno-red-lan-posgrado](https://github.com/NarcisoIn/diseno-red-lan-posgrado)** | Diseño documental de red LAN para edificio de posgrado — 8 VLANs, VLSM, switch L3. Proyecto académico TecNM Pinotepa. | Cisco · VLAN · VLSM |
+| 🖨️ **[InPrint_Bot](https://github.com/NarcisoIn/InPrint_Bot)** | Sistema automatizado de impresión vía Telegram. Diseñado para Homelabs y negocios locales con integración nativa a CUPS y Docker. | Python · Docker · CUPS · Telegram Bot|
+| 🎨 **[Portafolio_2.0](https://github.com/NarcisoIn/Portafolio_2.0)** | Portafolio web (Astro + Tailwind) con arquitectura híbrida para integrar un microservicio de mensajería backend (FastAPI + Docker). | Astro · Tailwind · FastAPI |
+| 📦 **[Automatizacion-Stock](https://github.com/NarcisoIn/Automatizacion-Stock)** | Sistema en Python para automatizar el monitoreo de inventario, con validación de stock mínimo, reportes en Excel y notificaciones. | Python · Excel · Telegram Bot|
 
 ---
 ## Estadísticas y Actividad
@@ -115,6 +120,12 @@ No me considero experto. Todavía estoy construyendo fundamentos y experiencia. 
 </td>
 </tr>
 </table>
+
+<br>
+
+<!-- Random Dev Quote -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+
 </div>
 
 ---
