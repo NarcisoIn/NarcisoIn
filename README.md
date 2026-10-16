@@ -24,7 +24,7 @@
 <!-- Redes Sociales -->
 [![Portfolio](https://img.shields.io/badge/narcisoguzman.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://narcisoguzman.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narciso-dev/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/root.narciso)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/narciso_dev)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NarcisoIn)
 
 </div>
@@ -99,6 +99,7 @@ No me considero experto. Todavía estoy construyendo fundamentos y experiencia. 
 | 🌐 **[diseno-red-lan-posgrado](https://github.com/NarcisoIn/diseno-red-lan-posgrado)** | Diseño documental de red LAN para edificio de posgrado — 8 VLANs, VLSM, switch L3. Proyecto académico TecNM Pinotepa. | Cisco · VLAN · VLSM |
 | 🖨️ **[InPrint_Bot](https://github.com/NarcisoIn/InPrint_Bot)** | Sistema automatizado de impresión vía Telegram. Diseñado para Homelabs y negocios locales con integración nativa a CUPS y Docker. | Python · Docker · CUPS · Telegram Bot|
 | 🎨 **[Portafolio_2.0](https://github.com/NarcisoIn/Portafolio_2.0)** | Portafolio web (Astro + Tailwind) con arquitectura híbrida para integrar un microservicio de mensajería backend (FastAPI + Docker). | Astro · Tailwind · FastAPI |
+| ✉️ **[portfolio-mail-api](https://github.com/NarcisoIn/portfolio-mail-api)** | Microservicio backend para procesar formularios web. Arquitectura *self-hosted* en ARM64, contenerizada y blindada perimetralmente con túneles Zero Trust de Cloudflare. | Python · FastAPI · Docker |
 | 📦 **[Automatizacion-Stock](https://github.com/NarcisoIn/Automatizacion-Stock)** | Sistema en Python para automatizar el monitoreo de inventario, con validación de stock mínimo, reportes en Excel y notificaciones. | Python · Excel · Telegram Bot|
 
 ---
@@ -129,6 +130,17 @@ No me considero experto. Todavía estoy construyendo fundamentos y experiencia. 
 </div>
 
 ---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NarcisoIn/NarcisoIn/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NarcisoIn/NarcisoIn/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NarcisoIn/NarcisoIn/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
 
 <div align="center">
   <p><code>$ echo "Gracias por pasar por aquí. ¡A romper y aprender!"</code></p>
