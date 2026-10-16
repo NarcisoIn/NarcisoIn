@@ -124,13 +124,6 @@ No me considero experto. Todavía estoy construyendo fundamentos y experiencia. 
 
 <br>
 
-<!-- Random Dev Quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-
-</div>
-
----
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NarcisoIn/NarcisoIn/output/github-contribution-grid-snake-dark.svg">
@@ -139,6 +132,12 @@ No me considero experto. Todavía estoy construyendo fundamentos y experiencia. 
   </picture>
 </div>
 
+<br>
+
+<!-- Random Dev Quote -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+
+</div>
 ---
 
 
